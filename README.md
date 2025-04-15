@@ -1,1 +1,1 @@
-Simple Three.js app
+Simple Three.js interactive app
